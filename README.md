@@ -1,5 +1,5 @@
 1. Información del sistema [Yo]
-2.Testeo disco[Óscar]
+2. Testeo disco[Óscar]
 3. Recuperación de datos [Kiko]
 4. Recuperación de contraseñas.[Álvaro]
 5. LIBRE (una herramienta que consideréis útil) [David]
