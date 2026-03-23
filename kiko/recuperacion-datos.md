@@ -16,4 +16,4 @@ Es especialmente útil en casos de pérdida de datos debidos a virus, formateo a
 ## 2. Enlace para descargarse la herramienta
 
 
-**Descarga:** El programa se encuentra disponible para su descarga con este enlace [asohdosahdoa](./gdbprosetup.zip).
+**Descarga:** El programa se encuentra disponible para su descarga con este enlace [📀](./gdbprosetup.zip).
