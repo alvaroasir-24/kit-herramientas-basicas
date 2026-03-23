@@ -34,9 +34,3 @@ Puedes descargar la versión estable y gratuita directamente desde el sitio ofic
     * **Azul/Verde:** El disco está sano.
     * **Amarillo:** ¡Precaución! Haz una copia de seguridad pronto.
     * **Rojo:** Riesgo inminente de fallo.
-
----
-
-## 📄 Licencia
-
-Este proyecto utiliza componentes bajo la licencia MIT. Consulta el sitio oficial para más detalles sobre el código fuente original.
