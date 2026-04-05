@@ -40,4 +40,4 @@ Puedes descargar la versión oficial de HWiNFO (Gratuita para uso no comercial) 
 
 Aqui se encuentra el video explicativo de instalación y utilización
 
->### 🎬 [![Video informativo 🎥]()(https://www.youtube.com/watch?v=Fk66qQl0MdE)
+>### 🎬 [![Video informativo 🎥](./img/miniatura.jpeg)](https://www.youtube.com/watch?v=Fk66qQl0MdE)
