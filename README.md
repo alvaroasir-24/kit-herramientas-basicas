@@ -65,9 +65,15 @@ En el siguiente video tutorial, realizaremos una simulación de recuperación de
 3. **Recuperación en Vivo:** Demostración de cómo la interfaz gráfica captura los usuarios y, mediante las tablas Rainbow, extrae la contraseña en texto claro en pocos minutos.
 </details>
 
+<br>
+
 <div align="center">
 
-[![Ver Tutorial](https://img.shields.io/badge/▶_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtu.be/feno-PPKJds])
+<a href="https://youtu.be/feno-PPKJds" target="_blank">
+  <img src="https://img.youtube.com/vi/feno-PPKJds/maxresdefault.jpg" alt="Tutorial de Ophcrack" width="600" />
+</a>
+
+[![Ver en YouTube](https://img.shields.io/badge/Ver_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/feno-PPKJds)
 
 </div>
 
