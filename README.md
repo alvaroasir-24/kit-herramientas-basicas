@@ -67,7 +67,7 @@ En el siguiente video tutorial, realizaremos una simulación de recuperación de
 
 <div align="center">
 
-[![Ver Tutorial](https://img.shields.io/badge/▶_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/TU_ENLACE_AQUI)
+[![Ver Tutorial](https://img.shields.io/badge/▶_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtu.be/feno-PPKJds])
 
 </div>
 
