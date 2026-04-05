@@ -68,7 +68,7 @@ En el siguiente video tutorial, realizaremos un recorrido completo y demostraci�
 
 <div align="center">
 
-[![Ver Tutorial](https://img.shields.io/badge/▶_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/tu-enlace-aqui)
+[![Ver Tutorial](https://img.shields.io/badge/▶_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/D4TMYH57l-k)
 
 </div>
 
