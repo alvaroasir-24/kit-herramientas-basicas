@@ -35,3 +35,9 @@ Puedes descargar la versión oficial de HWiNFO (Gratuita para uso no comercial) 
     * **Summary-only:** Para una vista rápida del modelo de procesador, placa y gráfica.
     * **Full Summary:** Para navegar por el árbol completo de hardware del equipo.
 4. Si necesitas analizar el rendimiento bajo carga, utiliza el botón de **"Logging Start"** para guardar los datos en un archivo.
+
+## 🎞️ Video
+
+Aqui se encuentra el video explicativo de instalación y utilización
+
+>### 🎬 [Video informativo 🎥](https://www.youtube.com/watch?v=Fk66qQl0MdE)
